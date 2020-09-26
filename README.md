@@ -1,4 +1,4 @@
-# Data Extraction and Text Analysis
+# Data Extraction and Text Analysis of Financial Reports
 
 ## Blackcoffer Consulting
 
